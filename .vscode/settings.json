@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "editor.find.autoFindInSelection": true,
+    "editor.mouseWheelZoom": true
+}
